@@ -1,4 +1,4 @@
-# QA internship — Task 2.2 (E2E)
+# QA Task 1, 2.2 (E2E)
 
 - `TESTCASES.md` — тест-кейсы для критических пользовательских сценариев
 - `tests/` — автотесты (Playwright, TypeScript)
