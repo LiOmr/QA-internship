@@ -1,0 +1,26 @@
+{
+  "name": "qa-internship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:e2e": "playwright test",
+    "test:e2e:ui": "playwright test --ui",
+    "report": "playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiOmr/QA-internship.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LiOmr/QA-internship/issues"
+  },
+  "homepage": "https://github.com/LiOmr/QA-internship#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0"
+  }
+}
